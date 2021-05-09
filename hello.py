@@ -5,5 +5,7 @@ print("How are you?")
 
 a = 5
 b = 7
-print(a+b)
+c = a + b
+print(c/2)
+
 
